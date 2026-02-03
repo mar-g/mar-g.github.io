@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[484,[],"ViewportBoundary"]
+3:I[484,[],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[6869,[],"IconMark"]
+0:{"buildId":"mPpg2XRj6aI5fCFl5bPCC","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Marcin G."}],["$","link","1",{"rel":"manifest","href":"/manifest.json"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?b9a589ff8a51d6fc","type":"image/x-icon","sizes":"48x48"}],["$","link","3",{"rel":"icon","href":"/icon.png?cbf256cce981e26e","type":"image/png","sizes":"96x96"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?8409f715be35aeaf","type":"image/png","sizes":"180x180"}],["$","$L5","5",{}]]}]}]}],null]}],"loading":null,"isPartial":false}
